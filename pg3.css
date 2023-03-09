@@ -20,17 +20,17 @@
 			background-color: #243046; height: 170px; width: 1440px; position: relative;text-align: center; top: 100px;
 		}
 		#bottom2 {
-			position: absolute; top: 780px; color: #fffaf9; margin-left: 150px;
+			position: absolute; top: 830px; color: #fffaf9; margin-left: 150px;
 		}
 		button {
-			position: absolute; top: 840px; width: 450px; margin-left: 150px;
+			position: absolute; top: 870px; width: 450px; margin-left: 156px;
 		}
 		#bottom3 {
-			background-color: #243046; height: 10px; width: 1440px; position: relative;text-align: center; top: 100px;
+			background-color: #243046; height: px; width: 1440px; position: relative;text-align: center; top: 0px;
 		}
 		#bottom4 {
-			position: absolute; top: 780px; color: #fffaf9; margin-left: 850px;
+			position: absolute; top: 830px; color: #fffaf9; margin-left: 850px;
 		}
 		#button2 {
-			position: absolute; top: 840px; width: 450px; margin-left: 840px;
+			position: absolute; top: 870px; width: 450px; margin-left: 840px;
 		}
